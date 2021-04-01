@@ -2,12 +2,13 @@
 <html>
 
 <head>
-	<title>Chatbot</title>
+	<title>Pindi Mani Querybot</title>
 	<link rel="icon" href="bot.png" />
 	<link rel="stylesheet" href="style.css" />
 </head>
 
 <body>
+	<h1>Pindi Mani TeamBot</h1>
 	<div id="container" class="container">
 		<div id="chat" class="chat">
 			<div id="messages" class="messages"></div>
