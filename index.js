@@ -9,6 +9,28 @@ document.addEventListener("DOMContentLoaded", () => {
   });
 });
 
+
+
+
+//function sendMsg(){
+
+//var ms = document.forms["myForm"]["msg"].value
+//document.addEventListener("DOMContentLoaded", () => {
+ //const inputField = document.getElementById(ms);
+  //inputField.addEventListener("keydown", (e) => {
+    //if (e.code === "Enter") {
+    // let input = inputField.value;
+    //  inputField.value = "";
+     // output(input);
+    //}
+  //});
+//}
+function sendMsg(){
+  const inputField = document.getElementById("input");
+  let input = inputField.value;
+  inputField.value = "";
+  output(input);
+}
 function output(input) {
   let product;
 
