@@ -30,7 +30,7 @@ const prompts = [
 // Possible responses, in corresponding order
 
 const replies = [
-  ["lowde!", "ni jaathini ", "helana cheyaku bro", "mirante unnollu vro !","Howdy"],
+  ["hey", "hello ", "hi", "Hey what's up !","How r u"],
   [
     "Fine... how are you?",
     "Pretty well, how are you?",
